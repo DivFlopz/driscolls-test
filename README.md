@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+Hello, people from Driscoll's! My name is Divier López and I hope that you'd find this project satisfying to the test that you requested. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+I'm really excited for this opportunity and I hope we can talk soon! 
 
 In the project directory, you can run:
 
