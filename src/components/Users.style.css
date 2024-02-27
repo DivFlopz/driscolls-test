@@ -1,0 +1,18 @@
+.article-header{
+    background-color: blueviolet;
+    color: #fff;
+    border: 3px solid transparent;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.section-content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1rem;
+}
+
+.add-user-btn{
+    float: right;
+    margin-top: 1rem;
+}
